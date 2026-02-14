@@ -1,0 +1,118 @@
+[
+    {
+        "received_data": {
+            "deduplicationId": "1d55d1a1-5215-41eb-9a44-5959e80ef76a",
+            "time": "2011-12-31T21:06:35.225613+00:00",
+            "deviceInfo": {
+                "tenantId": "52f14cd4-c6f1-4fbd-8f87-4025e1d49242",
+                "tenantName": "ChirpStack",
+                "applicationId": "a432df14-b749-4eba-ada1-be7669f1a70e",
+                "applicationName": "Baylan_Test_App_868",
+                "deviceProfileId": "35fcf84b-5a0a-40e4-bf10-cc3692b780eb",
+                "deviceProfileName": "Device_Profile_OTAA_1_0_4_868MHz",
+                "deviceName": "Test_Meter_868",
+                "devEui": "42594c0b19034045",
+                "deviceClassEnabled": "CLASS_A",
+                "tags": {}
+            },
+            "devAddr": "00127efd",
+            "adr": true,
+            "dr": 0,
+            "fCnt": 1,
+            "fPort": 2,
+            "confirmed": false,
+            "data": "CwAAAAAsAQAAIgAAIaEkWA==",
+            "rxInfo": [
+                {
+                    "gatewayId": "a84041ffff21c054",
+                    "uplinkId": 31241,
+                    "gwTime": "2011-12-31T21:06:35.225613+00:00",
+                    "nsTime": "2024-08-29T12:23:28.094446057+00:00",
+                    "rssi": -130,
+                    "snr": -12.0,
+                    "channel": 4,
+                    "location": {
+                        "latitude": 22.7,
+                        "longitude": 114.24,
+                        "altitude": 114.23999786376953
+                    },
+                    "context": "FVOJwA==",
+                    "metadata": {
+                        "region_common_name": "EU868",
+                        "region_config_id": "eu868"
+                    },
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 867300000,
+                "modulation": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreadingFactor": 12,
+                        "codeRate": "CR_4_5"
+                    }
+                }
+            }
+        },
+        "decoded_data": "110000000044010000340000331613688"
+    },
+    {
+        "received_data": {
+            "deduplicationId": "029fb6c5-ec72-49a9-9597-efeb5f48d070",
+            "time": "2011-12-31T21:08:26.705481+00:00",
+            "deviceInfo": {
+                "tenantId": "52f14cd4-c6f1-4fbd-8f87-4025e1d49242",
+                "tenantName": "ChirpStack",
+                "applicationId": "a432df14-b749-4eba-ada1-be7669f1a70e",
+                "applicationName": "Baylan_Test_App_868",
+                "deviceProfileId": "35fcf84b-5a0a-40e4-bf10-cc3692b780eb",
+                "deviceProfileName": "Device_Profile_OTAA_1_0_4_868MHz",
+                "deviceName": "Test_Meter_868",
+                "devEui": "42594c0b19034045",
+                "deviceClassEnabled": "CLASS_A",
+                "tags": {}
+            },
+            "devAddr": "01292a22",
+            "adr": true,
+            "dr": 0,
+            "fCnt": 1,
+            "fPort": 2,
+            "confirmed": false,
+            "data": "CwAAAAAsAQAAIgAAIaEkWA==",
+            "rxInfo": [
+                {
+                    "gatewayId": "a84041ffff21c054",
+                    "uplinkId": 796,
+                    "gwTime": "2011-12-31T21:08:26.705481+00:00",
+                    "nsTime": "2024-08-29T12:25:19.574847030+00:00",
+                    "rssi": -130,
+                    "snr": -6.8,
+                    "channel": 3,
+                    "location": {
+                        "latitude": 22.7,
+                        "longitude": 114.24,
+                        "altitude": 114.23999786376953
+                    },
+                    "context": "G/iMUA==",
+                    "metadata": {
+                        "region_config_id": "eu868",
+                        "region_common_name": "EU868"
+                    },
+                    "crcStatus": "CRC_OK"
+                }
+            ],
+            "txInfo": {
+                "frequency": 867100000,
+                "modulation": {
+                    "lora": {
+                        "bandwidth": 125000,
+                        "spreadingFactor": 12,
+                        "codeRate": "CR_4_5"
+                    }
+                }
+            }
+        },
+        "decoded_data": "110000000044010000340000331613688"
+    }
+]
