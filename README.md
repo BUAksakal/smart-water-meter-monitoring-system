@@ -34,7 +34,9 @@ A demo video showing the full system workflow will be added here:
 
 
 
-Uploading WhatsApp Video 2024-09-10 saat 17.37.39_ef9a38d7.mp4…
+
+https://github.com/user-attachments/assets/2605876d-2a5b-4f7d-b2a5-17c5035db465
+
 
 
 
