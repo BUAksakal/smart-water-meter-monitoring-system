@@ -13,6 +13,8 @@ The system consists of three main components:
 
 ### 🖥️ Desktop Monitoring Application (Tkinter)
 A graphical user interface built with **Python + Tkinter** that allows real-time monitoring of decoded meter data, manual data input for testing, background process management, live updates through file change detection, and automatic decoding of payload information. Key features include voltage calculation, credit extraction, battery status interpretation, warning detection, and meter type identification.
+![710af76d-64b1-44fe-8596-c44580633ee5](https://github.com/user-attachments/assets/1586f71c-e392-4324-a188-772a8022933c)
+
 
 ### 🌐 Live Web Dashboard (Streamlit)
 A lightweight web dashboard designed for live monitoring that displays incoming data in table format, refreshes automatically at intervals, connects to a local API or JSON source, and provides quick operational visualization.
