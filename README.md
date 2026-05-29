@@ -89,9 +89,3 @@ Developed as an **internship project** at Baylan Water & Energy Meters, focusing
 Due to company confidentiality policies, some components and internal implementation details have been simplified or adapted for demonstration purposes.
 
 ---
-
-## 👨‍💻 Author
-
-**Berke Uğur Aksakal**  
-AI Engineering Master’s Student  
-Deggendorf Institute of Technology
